@@ -48,7 +48,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 
 ### School Billing System (Thesis Project)
 
-A modern, cloud-native billing platform designed for educational institutions. The system streamlines student billing, payment management, and financial reporting while emphasizing security, scalability, and a clean user experience.
+A cloud-native, multi-tenant billing platform developed as my undergraduate thesis. The application helps educational institutions manage billing, payments, and financial records with a strong focus on security, scalability, and usability.
 
 **Highlights**
 
@@ -69,16 +69,8 @@ A modern, cloud-native billing platform designed for educational institutions. T
 
 `Vue 3` • `TypeScript` • `Hono` • `Cloudflare Workers` • `Cloudflare D1` • `Drizzle ORM` • `Pinia` • `TanStack Query` • `Tailwind CSS` • `Zod`
 
-🔗 **Repository:** https://github.com/Team-Year-4/school_billing
-
----
-
-##  GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tyty&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyty&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ **About This Project:** https://school-billing-api.system-codex.workers.dev
+ **Repository:** https://github.com/Team-Year-4/school_billing
 
 ---
 
