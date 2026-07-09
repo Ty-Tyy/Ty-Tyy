@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyty&label=Profile%20views&color=0e75b6&style=flat" alt="tyty" /> </p>
 
-- 🔭 I’m currently working on **POS System**
+- 🔭 I’m currently working on **Loan System**
 
 - 🌱 I’m currently learning **Vue**
 
